@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Apok CA || Excuela**
 
-- 🌱 I’m currently learning **Python Django - GO - Swift**
+- 🌱 I’m currently learning **Python - GO - Swift**
 
 - 👨‍💻 All of my projects are available at [https://lh-portafolio.netlify.app/](https://lh-portafolio.netlify.app/)
 
