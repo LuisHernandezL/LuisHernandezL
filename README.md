@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Hernandez</h1>
 <h3 align="center">A passionate software developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **Apok CA || Excuela**
+- 🔭 I’m currently working on **Apok CA || ThriveLab**
 
 - 🌱 I’m currently learning **Kotlin - Swift**
 
