@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Hernandez</h1>
 <h3 align="center">A passionate about mobile and front end developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Thrivelab](https://www.thrivelab.com/)
 
 - 🌱 I’m currently learning **Web3 Development.**
 
