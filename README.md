@@ -2,13 +2,13 @@
 <h3 align="center">A passionate about mobile and front end developer from Venezuela</h3>
 
 
-- 🌱 I’m currently learning **Web3 Development.**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://lh-portafolio.netlify.app/](https://lh-portafolio.netlify.app/)
 
-- 💬 Ask me about **react, angular, flutter, NodeJS and Android**
+- 💬 Ask me about **React, Angular, Flutter, NodeJS and IOS Development**
 
 - 📫 How to reach me **luishernandz2503@gmail.com**
 
